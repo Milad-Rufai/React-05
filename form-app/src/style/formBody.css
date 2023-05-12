@@ -74,7 +74,7 @@ body {
   }
   
   button {
-    background-color: rgb(17, 17, 97);
+    background-color: rgb(5, 150, 73);
     color: #ffff;
     padding: 8px 35px;
     border: none;
@@ -85,7 +85,7 @@ body {
   
   button:hover {
     background-color: #fff;
-    color: rgb(17, 17, 97);
-    border: 3px solid rgb(17, 17, 97);
+    color: rgb(5, 150, 73);
+    border: 3px solid rgb(5, 150, 73);
   }
   

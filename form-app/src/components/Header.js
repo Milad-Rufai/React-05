@@ -4,7 +4,7 @@ import '../style/formBody.css'
 const Header = () => {
   return (
     <header>
-    <div class="top">
+    <div className="top">
       <p>SheCoderCorner</p>
     </div>
   </header>
