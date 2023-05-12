@@ -45,7 +45,7 @@ return (
             </div>
         </div>
         <div className="right_body">
-            <h2>Create Account</h2>
+            <h2>Contact Us</h2>
             <form onSubmit={handelSubmit} action="" className="inline">
                 <div className="input-icons">
                     <label htmlFor='name'>Name</label>
